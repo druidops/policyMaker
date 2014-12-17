@@ -11,12 +11,18 @@ Policy Maker is a configuration manager, it aims to provide releasable policies.
 
 -- IEEE Glossary of Software Engineering Terminology (Standard 729-1983)
 
-Agent instigation
------------------
+Agent components
+----------------
 
 ![policyMaker](https://raw.github.com/druidops/policyMaker/master/docs/policyMaker.png)
 
-Report DB
----------
+Waves DB (Reporting)
+--------------------
 
 ![wavesDB](https://raw.github.com/druidops/policyMaker/master/docs/wavesDB.png)
+
+Scores DB (Resources)
+---------------------
+
+![scoresDB](https://raw.github.com/druidops/policyMaker/master/docs/scoresDB.png)
+
