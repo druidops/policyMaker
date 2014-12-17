@@ -13,16 +13,12 @@ Policy Maker is a configuration manager, it aims to provide releasable policies.
 
 Agent components
 ----------------
-
 ![policyMaker](https://raw.github.com/druidops/policyMaker/master/docs/policyMaker.png)
 
 Waves DB (Reporting)
 --------------------
-
 ![wavesDB](https://raw.github.com/druidops/policyMaker/master/docs/wavesDB.png)
 
 Scores DB (Resources)
 ---------------------
-
 ![scoresDB](https://raw.github.com/druidops/policyMaker/master/docs/scoresDB.png)
-
