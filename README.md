@@ -1,7 +1,7 @@
 policyMaker
 ===========
 
-Policy Maker is a configuration manager
+Policy Maker is a configuration manager, it aims to provide releasable policies.
 
 "Configuration Management is :
 * the process of identifying and defining the items in the system,
